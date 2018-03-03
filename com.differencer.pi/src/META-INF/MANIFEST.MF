@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: com.differencer.pi;version="1.0.0.201504171043";
+ roots:="."
+Bundle-Version: 1.0.0.201504171043
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.differencer.pi.source
+
